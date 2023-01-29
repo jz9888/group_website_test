@@ -40,24 +40,24 @@ pygmentsStyle = "native"
 # This links to content within the content/post/ folder
 [[menu.main]]
     name = "Publication"
-    url = "/post/"
+    url = "/publication/"
     weight = -150
 
 # This links to the page about.md
 [[menu.main]]
     name = "Students"
-    url = "/about/"
+    url = "/student/"
     weight = -110
 
 # Make the tags and categories pages accessible directly from the navbar.
 [[menu.main]]
     name = "Projects"
-    url = "/tags/"
+    url = "/project/"
     weight = -120
 
 [[menu.main]]
     name = "Grants & Awards"
-    url = "/categories/"
+    url = "/award/"
     weight = -130
 
 # Site wide params and SEO
