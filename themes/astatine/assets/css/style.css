@@ -17,6 +17,7 @@
   border-style: solid;
   /* 2 */
   border-color: #e5e7eb;
+  /*border-color: #18191a;*/
   /* 2 */
 }
 
@@ -163,13 +164,24 @@ sup {
 3. Remove gaps between table borders by default.
 */
 
-table {
+table{
   text-indent: 0;
   /* 1 */
   border-color: inherit;
   /* 2 */
   border-collapse: collapse;
   /* 3 */
+}
+
+th, td {
+  text-indent: 0;
+  /* 1 */
+  border-color: #18191a;
+  /* 2 */
+  border-collapse: collapse;
+  /* 3 */
+   /*border: 1px solid;*/
+   border-bottom: 1px solid #ddd;
 }
 
 /*

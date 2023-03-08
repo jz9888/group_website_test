@@ -8,19 +8,21 @@ draft: true
 [Awards](#awards)
 
 ## Services
-|Journal Editorship:| |
+**Journal Editorship:**
 |:----|:----|
 |2023 – present|Guest Editor of Multidisciplinary Digital Publishing Institute (MDPI) "Sensors" Journal: Special Issue "IoT Security"|
 |  2022 – present|Associate Editor of Elsevier Future Generation Computer Systems (FGCS), listed as TRACS 1A  2022 – present|Editor of Multidisciplinary Digital Publishing Institute (MDPI) Sensors Journal, listed as TRACS 1B  2022 – present|Associate Editor of IEEE Systems Journal, listed as TRACS 1B  2022 – present|Associate Editor of Elsevier Computer Communication (COMCOM), listed as TRACS 1B  2022 – present|Associate Editor of Elsevier Computer Networks (COMNET), listed as TRACS 1B2022 – present|Associate Editor of IEEE Wireless Communications Letters|
 |2022 – present|Editor of IEEE Transactions on Cognitive Communications and Networking  2022 – present|Associate Editor of Europe Association for Signal Processing (EURASIP) Journal on Wireless Communications and Networking  2022 – present|Associate Editor of Journal of Communications and Networks|
 |  2022 – present|Associate Editor of Elsevier Physical Communication (PHYCOM)|
 |2022 – present|Editor of IEEE Open Journal of the Communications Society (IEEE OJ-COM)2022 – 2023|Lead Guest Editor of Multidisciplinary Digital Publishing Institute (MDPI) "Sensors" Journal (listed as TRACS 1B): Special Issue "Communication, Networking, and Computing for Metaverse and Digital Reality"2022 – present|Guest editor of the Europe Association for Signal Processing (EURASIP) Journal on Wireless Communications and Networking2021 – present|Editorial Board Member of Frontiers in Communications and Networks|
-|2021 – 2022|Lead Guest Editor of Multidisciplinary Digital Publishing Institute (MDPI) "Sensors" Journal (listed as TRACS 1B): Special Issue "Security and Privacy in the Internet of Things (IoT)"2021|Guest editor of Security and Communication Networks: Special Issue “Joint Artificial Intelligence and Blockchain Technology for Next-Generation Internet of Things Applications)|  
-&nbsp;
-|**Conference Organizer:**| |
+|2021 – 2022|Lead Guest Editor of Multidisciplinary Digital Publishing Institute (MDPI) "Sensors" Journal (listed as TRACS 1B): Special Issue "Security and Privacy in the Internet of Things (IoT)"2021|Guest editor of Security and Communication Networks: Special Issue “Joint Artificial Intelligence and Blockchain Technology for Next-Generation Internet of Things Applications)|
+<!-- &nbsp; -->
+
+**Conference Organizer:**
+|:----|:----|
 |2023|Session Chair (Session E-10) of IEEE Conference on Computer Communications (INFOCOM), ranked as A+ by NTU SCSE2023|Technical Program Committee (TPC) Member of IEEE EDGE 2023 (2023 IEEE Conference on Edge Computing and|
 |2023|PhD Symposium Chair of 43rd IEEE International Conference on Distributed Computing Systems (ICDCS) 2023, ranked as A+ by NTU SCSE2023|Technical Program Committee Chair of 13th European Alliance for Innovation (EAI) International Conference on Wireless and Satellite Systems (WiSATS) 20222023|Local Arrangement Chair of International Symposium on Modeling and Optimization in Mobile, Ad hoc, and Wireless Networks (WiOpt) 20232023|Technical Program Committee (TPC) Member of “AI for Distributed Systems and Distributed Systems for AI” Track, 43rd IEEE International Conference on Distributed Computing Systems (ICDCS) 2023, ranked as A+ by NTU SCSE|
-| ||Technical Program Committee (TPC) Member of IEEE Conference on Computer Communications (INFOCOM), ranked as A+ by NTU SCSE|
+|||Technical Program Committee (TPC) Member of IEEE Conference on Computer Communications (INFOCOM), ranked as A+ by NTU SCSE|
 |2023|Technical Program Committee (TPC) Member of “Blockchain” Track, 43rd IEEE International Conference on Distributed Computing Systems (ICDCS) 2023, ranked as A+ by NTU SCSE|
 |2023, 2022|Technical Program Committee (TPC) Member of ACM International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc), ranked as A+ by NTU SCSE2023|Technical Program Committee (TPC) Member of “Edge Computing” Track, 43rd IEEE International Conference on Distributed Computing Systems (ICDCS) 2023, ranked as A+ by NTU SCSE2023, 2022, 2021|Technical Program Committee (TPC) Member of International Joint Conference on Artificial Intelligence (IJCAI), ranked as A+ by NTU SCSE|
 |2023, 2022, 2021, 2020|Technical Program Committee (TPC) Member of AAAI Conference on Artificial Intelligence (AAAI), ranked as A+ by NTU SCSE2023|Technical Program Committee (TPC) Member of the IEEE/ACM International Symposium on Quality of Service 2023 (IWQoS 2023)|
