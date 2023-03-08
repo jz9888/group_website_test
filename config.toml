@@ -24,6 +24,7 @@ pygmentsStyle = "native"
     category = "categories"  
     tag = "tags"
 
+
 # Configure permalinks style
 [permalinks]
     post = "/:slug/"
