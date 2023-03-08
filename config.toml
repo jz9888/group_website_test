@@ -57,7 +57,7 @@ pygmentsStyle = "native"
     weight = -120
 
 [[menu.main]]
-    name = "Grants & Awards"
+    name = "Services & Awards"
     url = "/award/"
     weight = -130
 
