@@ -34,7 +34,7 @@ strategy learning framework for particle swarm optimization algorithm,”
 </span><span class="csl-right-inline">Huizi Xiao, Jun Zhao, Jie Feng,
 Lei Liu, Qingqi Pei, and Weisong Shi, “Joint Optimization of Security
 Strength and Resource Allocation for Computation Offloading in Vehicular
-Edge Computing,” *IEEE Transactions on Wireless Communications (TWC)*,
+Edge Computing,” *IEEE Transactions on Wireless Communications (**TWC**)*,
 (accepted with minor revision), 2023, Available:
 <https://personal.ntu.edu.sg/junzhao/TWC2023SecurityStrength.pdf></span>
 
@@ -43,6 +43,22 @@ Edge Computing,” *IEEE Transactions on Wireless Communications (TWC)*,
 and Zhongpei Zhang, “Optimizing the Age of Information in RIS-aided
 SWIPT Networks,” *IEEE Transactions on Vehicular Technology (TVT)*,
 2023, Available: <https://doi.org/10.1109/TVT.2022.3208612></span>
+
+<span class="csl-left-margin">\[6\]
+</span><span class="csl-right-inline">Wenhan YU\*, Terence Jie Chua\*,
+and Jun Zhao, “Asynchronous Hybrid Reinforcement Learning for Latency
+and Reliability Optimization in the Metaverse over Wireless
+Communications,” *IEEE Journal on Selected Areas in Communications
+(**JSAC**)*, 2023, Available: <https://arxiv.org/abs/2212.14749>.
+(* means equal contribution)
+</span>
+
+<span class="csl-left-margin">\[7\]
+</span><span class="csl-right-inline">Tinghao Zhang, Kwok Yan Lam, and
+Jun Zhao, “Deep reinforcement learning based scheduling strategy for
+federated learning in sensor-cloud systems,” *Future Generation Computer
+Systems (FGCS)*, 2023.</span>
+
 
 
 

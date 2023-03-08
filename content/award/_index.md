@@ -7,8 +7,8 @@ draft: true
 - 2022
 	+	**Best Paper Award** in IEEE/ACM International Conference on Big Data Computing, Applications and Technologies ((BDCAT) 2022 for the following paper (All other co-authors of the paper except me are my PhD students):  
 	Terence Jie Chua*, Wenhan Yu*, Chang, Liu, Jun Zhao. “Detection of Uncertainty in Exceedance of Threshold (DUET): An Adversarial Patch Localizer”. IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (BDCAT), 2022.
-	+ List of "**World's top 2% of Scientists**" in 2022, edition by Stanford University.  
-	Certificate link: https://personal.ntu.edu.sg/junzhao/Awards/BDCAT_best_paper_2022.jpg  
+	+ List of "**World's top 2% of Scientists**" in 2022, edition by Stanford University 
+	Link: https://www.ntu.edu.sg/scse/news-events/news/detail/31-scse-faculty-listed-in-stanford-university's-top-2-scientists-study-(2022)  
 	+ **IEEE Vehicular Technology Society 2022 Best Land Transportation Paper Award** for the paper at https://doi.org/10.1109/TVT.2019.2894944.  
 	Certificate link: https://personal.ntu.edu.sg/junzhao/Awards/Award_VTS_2022_BestPaper.jpg
 
