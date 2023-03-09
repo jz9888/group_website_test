@@ -22,7 +22,7 @@ draft: true
 |:----|:----|
 |2023|Session Chair (Session E-10) of IEEE Conference on Computer Communications (INFOCOM), ranked as A+ by NTU SCSE2023|Technical Program Committee (TPC) Member of IEEE EDGE 2023 (2023 IEEE Conference on Edge Computing and|
 |2023|PhD Symposium Chair of 43rd IEEE International Conference on Distributed Computing Systems (ICDCS) 2023, ranked as A+ by NTU SCSE2023|Technical Program Committee Chair of 13th European Alliance for Innovation (EAI) International Conference on Wireless and Satellite Systems (WiSATS) 20222023|Local Arrangement Chair of International Symposium on Modeling and Optimization in Mobile, Ad hoc, and Wireless Networks (WiOpt) 20232023|Technical Program Committee (TPC) Member of “AI for Distributed Systems and Distributed Systems for AI” Track, 43rd IEEE International Conference on Distributed Computing Systems (ICDCS) 2023, ranked as A+ by NTU SCSE|
-|||Technical Program Committee (TPC) Member of IEEE Conference on Computer Communications (INFOCOM), ranked as A+ by NTU SCSE|
+|2023|Technical Program Committee (TPC) Member of IEEE Conference on Computer Communications (INFOCOM), ranked as A+ by NTU SCSE|
 |2023|Technical Program Committee (TPC) Member of “Blockchain” Track, 43rd IEEE International Conference on Distributed Computing Systems (ICDCS) 2023, ranked as A+ by NTU SCSE|
 |2023, 2022|Technical Program Committee (TPC) Member of ACM International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc), ranked as A+ by NTU SCSE2023|Technical Program Committee (TPC) Member of “Edge Computing” Track, 43rd IEEE International Conference on Distributed Computing Systems (ICDCS) 2023, ranked as A+ by NTU SCSE2023, 2022, 2021|Technical Program Committee (TPC) Member of International Joint Conference on Artificial Intelligence (IJCAI), ranked as A+ by NTU SCSE|
 |2023, 2022, 2021, 2020|Technical Program Committee (TPC) Member of AAAI Conference on Artificial Intelligence (AAAI), ranked as A+ by NTU SCSE2023|Technical Program Committee (TPC) Member of the IEEE/ACM International Symposium on Quality of Service 2023 (IWQoS 2023)|
@@ -32,8 +32,10 @@ draft: true
 |2021|Technical Program Committee (TPC) Member - IEEE International Conference on Distributed Computing Systems (ICDCS) 2021 (ranked as A+ by NTU SCSE): Track “Blockchain”2021|Technical Program Committee (TPC) Member - International Conference on Science of Cyber Security (SciSec2021)2021|Technical Program Committee (TPC) Member - IEEE 21st International Conference on Communication Technology2021|Tutorial Chair in 2021 IEEE 94th Vehicular Technology Conference (VTC2021-Fall)2021|Industry Track Panelist in 2021 IEEE 94th Vehicular Technology Conference (VTC2021-Fall)2021|Technical Program Committee (TPC) Chair of “Workshop on Scalable, Secure and Intelligent Blockchain for Future Networking and Communications” in 2021 IEEE Global Communications Conference (GLOBECOM)|
 |2021|Organizing Chair of “Workshop on Robust, Low-Latency and Efficient Federated Learning for 6G-Enabled Internet of Things” in 2021 IEEE Global Communications Conference (GLOBECOM)|
 |2021|Track Chair of “AI-Enabled Communications and Security Symposium” Track in 2021 International Conference on Wireless Communications and Signal Processing (WCSP)|  
-&nbsp;
-|**Reviewer:**| |
+<!-- &nbsp; -->
+
+**Reviewer:**
+|:----|:----|
 |2023, 2022|Reviewer for IEEE Journal on Selected Areas in Communications (JSAC)2023, 2022|Reviewer for Elsevier Journal “Computers & Security”2023, 2022, 2021, 2020, 2019, 2018|Reviewer for IEEE Transactions on Wireless Communications|
 |2023, 2022, 2021, 2020, 2019, 2018|Reviewer for IEEE Internet of Things Journal|
 |2022|Reviewer for IEEE Transactions on Computers|
