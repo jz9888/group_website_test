@@ -10,56 +10,64 @@ draft: true
 ## Services
 **Journal Editorship:**
 |:----|:----|
+|2022 – present|Editor of IEEE Transactions on Cognitive Communications and Networking  
+|2022 – present|Editor of IEEE Open Journal of the Communications Society (IEEE OJ-COM)
+|2022 – present|Associate Editor of IEEE Systems Journal, listed as TRACS 1B  
+|2022 – present|Associate Editor of IEEE Wireless Communications Letters|
+|2022 – present|Associate Editor of Elsevier Future Generation Computer Systems (FGCS), listed as TRACS 1A  
+|2022 – present|Editor of Multidisciplinary Digital Publishing Institute (MDPI) Sensors Journal, listed as TRACS 1B  
+|2022 – present|Associate Editor of Elsevier Computer Communication (COMCOM), listed as TRACS 1B  
+|2022 – present|Associate Editor of Elsevier Computer Networks (COMNET), listed as TRACS 1B
+|2022 – present|Associate Editor of Europe Association for Signal Processing (EURASIP) Journal on Wireless Communications and Networking  
+|2022 – present|Associate Editor of Journal of Communications and Networks|
+|2022 – present|Associate Editor of Elsevier Physical Communication (PHYCOM)|
+|2022 – 2023|Lead Guest Editor of Multidisciplinary Digital Publishing Institute (MDPI) "Sensors" Journal (listed as TRACS 1B): Special Issue "Communication, Networking, and Computing for Metaverse and Digital Reality"｜
+|2021 – 2022|Lead Guest Editor of Multidisciplinary Digital Publishing Institute (MDPI) "Sensors" Journal (listed as TRACS 1B): Special Issue "Security and Privacy in the Internet of Things (IoT)"｜
 |2023 – present|Guest Editor of Multidisciplinary Digital Publishing Institute (MDPI) "Sensors" Journal: Special Issue "IoT Security"|
-|  2022 – present|Associate Editor of Elsevier Future Generation Computer Systems (FGCS), listed as TRACS 1A  2022 – present|Editor of Multidisciplinary Digital Publishing Institute (MDPI) Sensors Journal, listed as TRACS 1B  2022 – present|Associate Editor of IEEE Systems Journal, listed as TRACS 1B  2022 – present|Associate Editor of Elsevier Computer Communication (COMCOM), listed as TRACS 1B  2022 – present|Associate Editor of Elsevier Computer Networks (COMNET), listed as TRACS 1B2022 – present|Associate Editor of IEEE Wireless Communications Letters|
-|2022 – present|Editor of IEEE Transactions on Cognitive Communications and Networking  2022 – present|Associate Editor of Europe Association for Signal Processing (EURASIP) Journal on Wireless Communications and Networking  2022 – present|Associate Editor of Journal of Communications and Networks|
-|  2022 – present|Associate Editor of Elsevier Physical Communication (PHYCOM)|
-|2022 – present|Editor of IEEE Open Journal of the Communications Society (IEEE OJ-COM)2022 – 2023|Lead Guest Editor of Multidisciplinary Digital Publishing Institute (MDPI) "Sensors" Journal (listed as TRACS 1B): Special Issue "Communication, Networking, and Computing for Metaverse and Digital Reality"2022 – present|Guest editor of the Europe Association for Signal Processing (EURASIP) Journal on Wireless Communications and Networking2021 – present|Editorial Board Member of Frontiers in Communications and Networks|
-|2021 – 2022|Lead Guest Editor of Multidisciplinary Digital Publishing Institute (MDPI) "Sensors" Journal (listed as TRACS 1B): Special Issue "Security and Privacy in the Internet of Things (IoT)"2021|Guest editor of Security and Communication Networks: Special Issue “Joint Artificial Intelligence and Blockchain Technology for Next-Generation Internet of Things Applications)|
+|2022 – present|Guest editor of the Europe Association for Signal Processing (EURASIP) Journal on Wireless Communications and Networking｜
+|2021|Guest editor of Security and Communication Networks: Special Issue “Joint Artificial Intelligence and Blockchain Technology for Next-Generation Internet of Things Applications)|
+|2021 – present|Editorial Board Member of Frontiers in Communications and Networks|
+
 <!-- &nbsp; -->
 
 **Conference Organizer:**
 |:----|:----|
-|2023|Session Chair (Session E-10) of IEEE Conference on Computer Communications (INFOCOM), ranked as A+ by NTU SCSE2023|Technical Program Committee (TPC) Member of IEEE EDGE 2023 (2023 IEEE Conference on Edge Computing and|
-|2023|PhD Symposium Chair of 43rd IEEE International Conference on Distributed Computing Systems (ICDCS) 2023, ranked as A+ by NTU SCSE2023|Technical Program Committee Chair of 13th European Alliance for Innovation (EAI) International Conference on Wireless and Satellite Systems (WiSATS) 20222023|Local Arrangement Chair of International Symposium on Modeling and Optimization in Mobile, Ad hoc, and Wireless Networks (WiOpt) 20232023|Technical Program Committee (TPC) Member of “AI for Distributed Systems and Distributed Systems for AI” Track, 43rd IEEE International Conference on Distributed Computing Systems (ICDCS) 2023, ranked as A+ by NTU SCSE|
+|2023|Technical Program Committee Chair of 13th European Alliance for Innovation (EAI) International Conference on Wireless and Satellite Systems (WiSATS)|
+|2021|Technical Program Committee Chair of “Workshop on Scalable, Secure and Intelligent Blockchain for Future Networking and Communications” in 2021 IEEE Global Communications Conference (GLOBECOM)|
+|2023|PhD Symposium Chair of 43rd IEEE International Conference on Distributed Computing Systems (ICDCS) 2023, ranked as A+ by NTU SCSE
+|2023|Session Chair (Session E-10) of IEEE Conference on Computer Communications (INFOCOM), ranked as A+ by NTU SCSE|
+|2022|Session Chair in IEEE International Conference on Distributed Computing Systems (ICDCS, ranked as A+ by NTU SCSE) 2022 for "Session 9A (Machine Learning and Cloud, Cloud Computing and Data Centers)"|
+|2022|Session Chair of IEEE International Conference on Sensing, Communication, and Networking (SECON, ranked as A by NTU SCSE) for "Session 10A (Mobile Edge Computing-2)"|
+|2021|Session Chair of IFIP Networking 2021 (SCSE A)|
+|2023|Local Arrangement Chair of International Symposium on Modeling and Optimization in Mobile, Ad hoc, and Wireless Networks (WiOpt)|
+|2022|Student Travel Grant Chair of IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)|
+|2021|Tutorial Chair in 2021 IEEE 94th Vehicular Technology Conference (VTC2021-Fall)|
+|2021|Organizing Chair of “Workshop on Robust, Low-Latency and Efficient Federated Learning for 6G-Enabled Internet of Things” in 2021 IEEE Global Communications Conference (GLOBECOM)|
+|2021|Track Chair of “AI-Enabled Communications and Security Symposium” Track in 2021 International Conference on Wireless Communications and Signal Processing (WCSP)| 
+|2022|Lead Organizer for Special Session "Blockchain-Driven Decentralized Energy Management for Smart Grid" in IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)|
+|2023|Technical Program Committee (TPC) Member of IEEE EDGE 2023 (2023 IEEE Conference on Edge Computing and Communications)|
+|2023|Technical Program Committee (TPC) Member of “AI for Distributed Systems and Distributed Systems for AI” Track, 43rd IEEE International Conference on Distributed Computing Systems (ICDCS) 2023, ranked as A+ by NTU SCSE|
 |2023|Technical Program Committee (TPC) Member of IEEE Conference on Computer Communications (INFOCOM), ranked as A+ by NTU SCSE|
 |2023|Technical Program Committee (TPC) Member of “Blockchain” Track, 43rd IEEE International Conference on Distributed Computing Systems (ICDCS) 2023, ranked as A+ by NTU SCSE|
-|2023, 2022|Technical Program Committee (TPC) Member of ACM International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc), ranked as A+ by NTU SCSE2023|Technical Program Committee (TPC) Member of “Edge Computing” Track, 43rd IEEE International Conference on Distributed Computing Systems (ICDCS) 2023, ranked as A+ by NTU SCSE2023, 2022, 2021|Technical Program Committee (TPC) Member of International Joint Conference on Artificial Intelligence (IJCAI), ranked as A+ by NTU SCSE|
+|2023, 2022|Technical Program Committee (TPC) Member of ACM International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc), ranked as A+ by NTU SCSE
+|2023|Technical Program Committee (TPC) Member of “Edge Computing” Track, 43rd IEEE International Conference on Distributed Computing Systems (ICDCS) 2023, ranked as A+ by NTU SCSE
+|2023, 2022, 2021|Technical Program Committee (TPC) Member of International Joint Conference on Artificial Intelligence (IJCAI), ranked as A+ by NTU SCSE|
 |2023, 2022, 2021, 2020|Technical Program Committee (TPC) Member of AAAI Conference on Artificial Intelligence (AAAI), ranked as A+ by NTU SCSE2023|Technical Program Committee (TPC) Member of the IEEE/ACM International Symposium on Quality of Service 2023 (IWQoS 2023)|
-|2023, 2022, 2021|Technical Program Committee (TPC) Member - IFIP Networking, ranked as A by NTU SCSE2023, 2022|Technical Program Committee (TPC) Member of IEEE International Conference on Sensing, Communication, and Networking (SECON), ranked as A by NTU SCSE2022|Session Chair in IEEE International Conference on Distributed Computing Systems (ICDCS, ranked as A+ by NTU SCSE) 2022 for "Session 9A (Machine Learning and Cloud, Cloud Computing and Data Centers)"2022|Student Travel Grant Chair of IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm) 20222022|Session Chair of IEEE International Conference on Sensing, Communication, and Networking (SECON, ranked as A by NTU SCSE) for "Session 10A (Mobile Edge Computing-2)"|
-|2022|Lead Organizer for Special Session "Blockchain-Driven Decentralized Energy Management for Smart Grid" in IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm) 20222021|Technical Program Committee (TPC) Member - International Conference on Provable and Practical Security (ProvSec)2021|Session Chair of IFIP Networking 2021 (SCSE A)|
+|2023, 2022, 2021|Technical Program Committee (TPC) Member - IFIP Networking, ranked as A by NTU SCSE
+|2023, 2022|Technical Program Committee (TPC) Member of IEEE International Conference on Sensing, Communication, and Networking (SECON), ranked as A by NTU SCSE|
+|2022, 2021|Technical Program Committee (TPC) Member - International Conference on Provable and Practical Security (ProvSec)2021|Session Chair of IFIP Networking 2021 (SCSE A)|
 |2021|Technical Program Committee (TPC) Member - IEEE International Conference on Distributed Computing Systems (ICDCS) 2021 (ranked as A+ by NTU SCSE): Track “Security, Privacy, and Trust in Distributed Systems”|
-|2021|Technical Program Committee (TPC) Member - IEEE International Conference on Distributed Computing Systems (ICDCS) 2021 (ranked as A+ by NTU SCSE): Track “Blockchain”2021|Technical Program Committee (TPC) Member - International Conference on Science of Cyber Security (SciSec2021)2021|Technical Program Committee (TPC) Member - IEEE 21st International Conference on Communication Technology2021|Tutorial Chair in 2021 IEEE 94th Vehicular Technology Conference (VTC2021-Fall)2021|Industry Track Panelist in 2021 IEEE 94th Vehicular Technology Conference (VTC2021-Fall)2021|Technical Program Committee (TPC) Chair of “Workshop on Scalable, Secure and Intelligent Blockchain for Future Networking and Communications” in 2021 IEEE Global Communications Conference (GLOBECOM)|
-|2021|Organizing Chair of “Workshop on Robust, Low-Latency and Efficient Federated Learning for 6G-Enabled Internet of Things” in 2021 IEEE Global Communications Conference (GLOBECOM)|
-|2021|Track Chair of “AI-Enabled Communications and Security Symposium” Track in 2021 International Conference on Wireless Communications and Signal Processing (WCSP)|  
+|2021|Technical Program Committee (TPC) Member - IEEE International Conference on Distributed Computing Systems (ICDCS) 2021 (ranked as A+ by NTU SCSE): Track “Blockchain”
+|2021|Technical Program Committee (TPC) Member - International Conference on Science of Cyber Security (SciSec2021)
+|2021|Technical Program Committee (TPC) Member - IEEE 21st International Conference on Communication Technology
+|2021|Industry Track Panelist in 2021 IEEE 94th Vehicular Technology Conference (VTC2021-Fall)
+ 
+
 <!-- &nbsp; -->
 
-**Reviewer:**
+**Other services:**
 |:----|:----|
-|2023, 2022|Reviewer for IEEE Journal on Selected Areas in Communications (JSAC)2023, 2022|Reviewer for Elsevier Journal “Computers & Security”2023, 2022, 2021, 2020, 2019, 2018|Reviewer for IEEE Transactions on Wireless Communications|
-|2023, 2022, 2021, 2020, 2019, 2018|Reviewer for IEEE Internet of Things Journal|
-|2022|Reviewer for IEEE Transactions on Computers|
-|2022|Reviewer for IEEE Transactions on Signal Processing|
-|2022|Reviewer for Security and Communication Networks|
-|2022|Reviewer for Sensors|
-|2022|Reviewer for International Conference on Computer Communications (INFOCOM) 2023|
-|2022|Reviewer for 14th International Conference on Wireless Communications and Signal Processing|
-|2022|Reviewer for IEEE Transactions on Vehicular Technology|
-|2022|Reviewer for International Joint Conference on Artificial intelligence (IJCAI)-European Conference on Artificial Intelligence (ECAI) 2022, the 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence|
-|2022|Reviewer for IEEE Transactions on Signal Processing|
-|2021|Invited to Review Poster Submissions for 30th Anniversary A*STAR Scientific Conference|
-|2021|Reviewer for IEEE Transactions on Parallel and Distributed Systems|
-|2021|Reviewer for IEEE Network Magazine|
-|2021|Reviewer for IEEE International Conference on Distributed Computing Systems (ICDCS) 2021|
-|2021, 2020|Reviewer for IEEE Transactions on Vehicular Technology (TVT)|
-|2021|Reviewer for IEEE Transactions on Network Science and Engineering|
-|2021|Reviewer for IEEE Transactions on Mobile Computing (TMC)|
-|2020|Reviewer for IEEE Transactions on Network and Service Management|
-|2020|Reviewer for IEEE Transactions on Communications (TCOM)|
-|2020, 2019, 2018|Reviewer for IEEE Transactions on Dependable and Secure Computing|
-|2019, 2018|Reviewer for AAAI Conference on Artificial Intelligence (AAAI)|
-|2019, 2018|Reviewer for Conference on Neural Information Processing Systems (NIPS)|
-
+|2023|Chair in IEEE Vehicular Technology Society Ad Hoc Committee on Autonomous Vehicles|
 
 ## Awards
 - 2022
