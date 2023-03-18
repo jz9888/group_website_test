@@ -45,12 +45,11 @@ SWIPT Networks,” *IEEE Transactions on Vehicular Technology (TVT)*,
 2023, Available: <https://doi.org/10.1109/TVT.2022.3208612></span>
 
 <span class="csl-left-margin">\[6\]
-</span><span class="csl-right-inline">Wenhan YU\*, Terence Jie Chua\*,
+</span><span class="csl-right-inline">Wenhan YU, Terence Jie Chua,
 and Jun Zhao, “Asynchronous Hybrid Reinforcement Learning for Latency
 and Reliability Optimization in the Metaverse over Wireless
 Communications,” *IEEE Journal on Selected Areas in Communications
 (**JSAC**)*, 2023, Available: <https://arxiv.org/abs/2212.14749>.
-(* means equal contribution)
 </span>
 
 <span class="csl-left-margin">\[7\]
@@ -58,6 +57,25 @@ Communications,” *IEEE Journal on Selected Areas in Communications
 Jun Zhao, “Deep reinforcement learning based scheduling strategy for
 federated learning in sensor-cloud systems,” *Future Generation Computer
 Systems (FGCS)*, 2023.</span>
+
+<span class="csl-left-margin">\[8\]
+</span><span class="csl-right-inline">Xinyu Zhou, Chang Liu, and Jun
+Zhao, “Resource Allocation of Federated Learning for the Metaverse with
+Mobile Augmented Reality,” *IEEE Transactions on Wireless Communications
+(**TWC**)* (Major revision), 2023.</span>
+
+<span class="csl-left-margin">\[9\]
+</span><span class="csl-right-inline">Terence Jie Chua, Wenhan Yu, and
+Jun Zhao, “Mobile Edge AdversariaDetection for Digital Twinning to the
+Metaverse: A Deep ReinforcementLearning Approach,” *IEEE Transactions on
+Wireless Communications (**TWC**)* (Major revision), 2023.</span>
+
+<span class="csl-left-margin">\[10\]
+</span><span class="csl-right-inline">Wenhan Yu, Terence Jie Chua, and
+Jun Zhao, “User-centric Heterogeneous-action Deep Reinforcement Learning
+for Virtual Reality in the Metaverse over Wireless Networks,” *IEEE
+Transactions on Wireless Communications (**TWC**)* (Major revision),
+2023.</span>
 
 
 
