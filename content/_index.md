@@ -84,8 +84,7 @@ Before joining NTU first as a postdoc with Xiaokui Xiao and then as a faculty me
 
 # Research Interests
 
-My research interests include blockchain, edge/fog computing, Internet of Things (IoT), cyber-physical systems (CPS), signal processing, AI security, adversarial machine learning, federated learning, reinforcement learning, and data privacy.
-
+My research interests include **Wireless Communications**, **Metaverse**, **Blockchain**, **Edge/Fog Computing**, **Federated Machine Learning**, **Security**, **Privacy**, etc.
 
 # Announcement: Call for papers
 
