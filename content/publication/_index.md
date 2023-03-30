@@ -67,7 +67,7 @@ Mobile Augmented Reality,” *IEEE Transactions on Wireless Communications
 <span class="csl-left-margin">\[9\]
 </span><span class="csl-right-inline">Terence Jie Chua, Wenhan Yu, and
 Jun Zhao, “Mobile Edge Adversarial Detection for Digital Twinning to the
-Metaverse: A Deep ReinforcementLearning Approach,” *IEEE Transactions on
+Metaverse: A Deep Reinforcement Learning Approach,” *IEEE Transactions on
 Wireless Communications (**TWC**)* (Major revision), 2023.</span>
 
 <span class="csl-left-margin">\[10\]
