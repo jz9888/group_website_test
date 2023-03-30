@@ -84,7 +84,7 @@ Xinyu Zhou, “A Random Access Scheme for Federated Learning over Massive MIMO S
 
 <span class="csl-left-margin">\[12\]
 </span><span class="csl-right-inline">Jie Feng and Jun Zhao, “Resource Allocation for Augmented Reality Empowered Vehicular Edge Metaverse,” *IEEE Transactions on Communications (**TCOM**)* (Major revision), 
-2023.</span>
+2023, Available: https://arxiv.org/abs/2212.01325.</span>
 
 
 ### 2022
