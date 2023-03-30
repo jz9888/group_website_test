@@ -45,7 +45,7 @@ SWIPT Networks,” *IEEE Transactions on Vehicular Technology (TVT)*,
 2023, Available: <https://doi.org/10.1109/TVT.2022.3208612></span>
 
 <span class="csl-left-margin">\[6\]
-</span><span class="csl-right-inline">Wenhan YU, Terence Jie Chua,
+</span><span class="csl-right-inline">Wenhan Yu, Terence Jie Chua,
 and Jun Zhao, “Asynchronous Hybrid Reinforcement Learning for Latency
 and Reliability Optimization in the Metaverse over Wireless
 Communications,” *IEEE Journal on Selected Areas in Communications
@@ -66,7 +66,7 @@ Mobile Augmented Reality,” *IEEE Transactions on Wireless Communications
 
 <span class="csl-left-margin">\[9\]
 </span><span class="csl-right-inline">Terence Jie Chua, Wenhan Yu, and
-Jun Zhao, “Mobile Edge AdversariaDetection for Digital Twinning to the
+Jun Zhao, “Mobile Edge Adversarial Detection for Digital Twinning to the
 Metaverse: A Deep ReinforcementLearning Approach,” *IEEE Transactions on
 Wireless Communications (**TWC**)* (Major revision), 2023.</span>
 
@@ -77,7 +77,14 @@ for Virtual Reality in the Metaverse over Wireless Networks,” *IEEE
 Transactions on Wireless Communications (**TWC**)* (Major revision),
 2023.</span>
 
+<span class="csl-left-margin">\[11\]
+</span><span class="csl-right-inline">Huimei Han, Jun Zhao, and
+Xinyu Zhou, “A Random Access Scheme for Federated Learning over Massive MIMO Systems,” *IEEE Internet of Things (IoTJ)* (Accept with minor revision), 
+2023.</span>
 
+<span class="csl-left-margin">\[12\]
+</span><span class="csl-right-inline">Jie Feng and Jun Zhao, “Resource Allocation for Augmented Reality Empowered Vehicular Edge Metaverse,” *IEEE Transactions on Communications (**TCOM**)* (Major revision), 
+2023.</span>
 
 
 ### 2022
