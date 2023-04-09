@@ -34,14 +34,13 @@ strategy learning framework for particle swarm optimization algorithm,”
 </span><span class="csl-right-inline">Huizi Xiao, Jun Zhao, Jie Feng,
 Lei Liu, Qingqi Pei, and Weisong Shi, “Joint Optimization of Security
 Strength and Resource Allocation for Computation Offloading in Vehicular
-Edge Computing,” *IEEE Transactions on Wireless Communications (**TWC**)*,
-(accepted with minor revision), 2023, Available:
-<https://personal.ntu.edu.sg/junzhao/TWC2023SecurityStrength.pdf></span>
+Edge Computing,” *IEEE Transactions on Wireless Communications (**TWC**)*, 
+2023, Available: <https://personal.ntu.edu.sg/junzhao/TWC2023SecurityStrength.pdf></span>
 
 <span class="csl-left-margin">\[5\]
 </span><span class="csl-right-inline">Wanting Lyu, Yue Xiu, Jun Zhao,
 and Zhongpei Zhang, “Optimizing the Age of Information in RIS-aided
-SWIPT Networks,” *IEEE Transactions on Vehicular Technology (TVT)*,
+SWIPT Networks,” *IEEE Transactions on Vehicular Technology (TVT)*, 
 2023, Available: <https://doi.org/10.1109/TVT.2022.3208612></span>
 
 <span class="csl-left-margin">\[6\]
@@ -85,6 +84,10 @@ Xinyu Zhou, “A Random Access Scheme for Federated Learning over Massive MIMO S
 <span class="csl-left-margin">\[12\]
 </span><span class="csl-right-inline">Jie Feng and Jun Zhao, “Resource Allocation for Augmented Reality Empowered Vehicular Edge Metaverse,” *IEEE Transactions on Communications (**TCOM**)* (Major revision), 
 2023, Available: https://arxiv.org/abs/2212.01325.</span>
+
+<span class="csl-left-margin">\[13\]
+</span><span class="csl-right-inline">Yuyan Zhou, Yang Liu, Qingqing Wu, Qingjiang Shi and Jun Zhao, “Queueing Aware Power Mnimization for Wireless Communication Aided by Double-Faced Active RIS,” *IEEE Transactions on Communications (**TCOM**)* (Major revision), 
+2023.
 
 
 ### 2022
